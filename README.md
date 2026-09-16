@@ -161,3 +161,14 @@ Svelte 5 · Vite 8 · Chart.js 4.5 · svelte-chartjs
 - [ ] 多机型成本对比表（类似 TractorCompare 的并排视图）
 - [ ] 导出 PDF / CSV
 - [ ] i18n 英文界面选项
+
+---
+
+## License / 许可证
+
+MIT License — see [LICENSE](./LICENSE).
+
+Copyright (c) 2026 akk987154
+
+本项目采用 MIT 许可证，详见 [LICENSE](./LICENSE)。
+你可以自由使用、修改、分发，包括商业用途，只需保留版权声明与许可声明。
