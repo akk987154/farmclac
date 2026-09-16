@@ -43,6 +43,7 @@ npm install
 npm run dev        # 开发模式 http://localhost:5173
 npm run build      # 生产构建到 dist/
 npm run preview    # 预览生产构建
+npm test           # 运行计算引擎单元测试 (vitest)
 ```
 
 ### 计算引擎
