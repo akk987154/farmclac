@@ -6,11 +6,15 @@
   的反馈。折旧表那块改了至少三版才定下来。
 -->
 
-[![Svelte 5](https://img.shields.io/badge/Svelte-5.55-ff3e00?logo=svelte)](https://svelte.dev)
-[![Vite 8](https://img.shields.io/badge/Vite-8.0-646cff?logo=vite)](https://vitejs.dev)
+[![Svelte 5](https://img.shields.io/badge/Svelte-5.57-ff3e00?logo=svelte)](https://svelte.dev)
+[![Vite 8](https://img.shields.io/badge/Vite-8.3-646cff?logo=vite)](https://vitejs.dev)
 [![Chart.js](https://img.shields.io/badge/Chart.js-4.5-ff6384?logo=chartdotjs)](https://www.chartjs.org)
 
 **FarmCalc** 是 [TractorTools](https://github.com/seb/tractor-tools) 生态的财务模块。它从最开始的"每小时烧多少钱"这一个小问题出发，经过四轮迭代，现在覆盖了运营成本、投资回报、折旧模拟三个维度。如果你是从 [TractorCompare](../tractor-compare) 过来的——那边的规格数据可以直接套进这里的成本模型；如果你在用 [TractorWatch](../tractor-watch) 盯二手价格，这里的折旧曲线正好帮你判断挂牌价合不合理。
+
+## 📸 界面预览
+
+![FarmCalc 计算器界面](screenshots/calculator.png)
 
 ---
 
